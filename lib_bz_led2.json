@@ -1,0 +1,8 @@
+{
+  "name": "msw_bz_led2",
+  "target": "armv6",
+  "description": "[name] [gpio_id]",
+  "scripts": "./lib_bz_led2 2",
+  "data": ["LED"],
+  "control": ["Control_ONOFF"]
+}
